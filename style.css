@@ -1,0 +1,180 @@
+html {
+  background-color: hsl(0, 0%, 8%);
+}
+
+body {
+  display: grid;
+  place-items: center;
+  margin-top: 4.8rem;
+}
+
+.container {
+  border-radius: 15px;
+  height: 550px;
+  width: 325px;
+  background-color: hsl(0, 0%, 12%);
+}
+
+#avatar {
+  border-radius: 100%;
+  width: 6em;
+  height: 6em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+
+#title {
+  color: hsl(0, 6%, 93%);
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  line-height: 0;
+  margin-top: 2rem;
+}
+
+#location {
+  text-align: center;
+  margin-bottom: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  color: hsl(75, 94%, 57%);
+}
+
+#quote {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  color: hsl(0, 0%, 84%);
+}
+
+#button1 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 6rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 6rem;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#button1:hover {
+  background-color: hsl(75, 94%, 57%);
+  transition: 0.5s;
+}
+
+#button2 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 3.3rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 3.3rem;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#button2:hover {
+  background-color: hsl(75, 94%, 57%);
+  transition: 0.5s;
+}
+
+#button3 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 5.6rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 5.6rem;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#button3:hover {
+  background-color: hsl(75, 94%, 57%);
+  transition: 0.5s;
+}
+
+#button4 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 5.1rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 5.1rem;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#button4:hover {
+  background-color: hsl(75, 94%, 57%);
+  transition: 0.5s;
+}
+
+#button5 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 6rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 6rem;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#button5:hover {
+  background-color: hsl(75, 94%, 57%);
+  transition: 0.5s;
+}
